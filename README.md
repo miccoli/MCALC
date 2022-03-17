@@ -1,6 +1,6 @@
 # MCALC
-Jupyter notebooks for my students (in Italian)
+Esercizi svolti.
 
 ## Molle
 
-- [Esercizio 1](https://mybinder.org/v2/gh/miccoli/MCALC/feature/molle?labpath=Molle.ipynb)
+- [Esercizio 1](https://mybinder.org/v2/gh/miccoli/MCALC/feature/molle?labpath=molle/es1.ipynb)
